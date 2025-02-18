@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
+        }
+  ]
+}
